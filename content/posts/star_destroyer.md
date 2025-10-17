@@ -1,6 +1,6 @@
 +++
 date = '2025-10-17T10:11:03Z'
-draft = true
+draft = false
 title = 'Star_destroyer'
 +++
 
