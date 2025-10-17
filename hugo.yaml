@@ -13,3 +13,8 @@ params:
     title: Robert-Constantin Rachieru
     subtitle: Welcome to my blog!
     imageUrl: https://avatars.githubusercontent.com/u/65907323?v=4
+
+    # --- Add this under profileMode ---
+    buttons:
+      - name: Posts
+        url: "posts"
